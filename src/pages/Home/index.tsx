@@ -8,8 +8,8 @@ export const Home: React.FC = () => {
   return (
     <Grid container>
       <Grid item>
-        <TitlePage title="Home" />
-        <Typography>{contador}</Typography>
+        <TitlePage title="Star Wars" />
+        <Divider />
       </Grid>
     </Grid>
   );
